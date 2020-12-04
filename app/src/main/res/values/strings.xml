@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Sociedad Protectora de Animales</string>
+    <string name="botonLogin">Iniciar Sesión</string>
+    <string name="mensajeBienvenida">¡Bienvenidos!</string>
+    <string name="botonInvitado">Invitado</string>
+    <string name="title_activity_listado">Lista de adopciones</string>
+    <string name="tituloCrear">Introduzca los datos</string>
+    <string name="homeUsuario">Usuario</string>
+    <string name="homeContrasena">Contraseña</string>
+    <string name="homeInvitado">¿No tienes usuario? Entra como invitado</string>
+    <string name="nombreCrear">Nombre</string>
+    <string name="razaCrear">Raza</string>
+    <string name="edadCrear">Edad</string>
+    <string name="moduloCrear">Módulo</string>
+    <string name="sexoCrear">Sexo</string>
+    <string name="guardarCrear">Guardar</string>
+    <string name="descripcionCrear">Descripción</string>
+    <string name="macho">Macho</string>
+    <string name="hembra">Hembra</string>
+    <string name="botonModuloT">Módulo T</string>
+    <string name="botonModuloA">Módulo A</string>
+    <string name="botonModuloB">Módulo B</string>
+    <string name="botonModuloC">Módulo C</string>
+    <string name="botonModuloCachorros">Módulo Cachorros</string>
+    <string name="botonModuloGeri">Módulo Geriátrico</string>
+    <string name="mensajeSeleccionModulo">¿Qué módulo desea seleccionar?</string>
+    <string name="cerrarSesion">Salir</string>
+    <string name="abrirMapa">Mapa</string>
+    <string name="tituloInfo">Información del refugio</string>
+    <string name="direccionInfo">Dirección</string>
+    <string name="nombreInfo">Nombre</string>
+    <string name="webInfo">Página Web</string>
+    <string name="numeroInfo">Teléfono</string>
+    <string name="redesInfo">Redes Sociales</string>
+    <string name="urlCrear">Enlace foto</string>
+    <string name="fotoVer">Foto</string>
+    <string name="borrado">Borrado</string>
+    <string name="enviado">Enviado</string>
+    <string name="ok">Borrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mensajeEmergente">¿Desea eliminar al perro?</string>
+    <string name="tituloEmergente">Eliminar perro</string>
+    <string name="tituloContacto">Contactar con Módulo</string>
+    <string name="nombreFormulario">Introduzca su nombre</string>
+    <string name="correoFormulario">Introduzca su correo electrónico</string>
+    <string name="telefonoFormulario">Introduzca su teléfono</string>
+    <string name="enviarBoton">Enviar</string>
+    <string name="interesContacto">Se han interesado por</string>
+    <string name="formularioVacio">No se encontraron solicitudes</string>
+    <string name="year">año</string>
+    <string name="years">años</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>

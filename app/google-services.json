@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967400795378",
+    "firebase_url": "https://fir-prote.firebaseio.com",
+    "project_id": "fir-prote",
+    "storage_bucket": "fir-prote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967400795378:android:529d272d704a64b19b746b",
+        "android_client_info": {
+          "package_name": "com.example.appprote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967400795378-ivesjkljn0cbh00huk7u6cefg0t4r1hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appprote",
+            "certificate_hash": "6590792156baefb83f23e6bb779e5a498ab1fbe5"
+          }
+        },
+        {
+          "client_id": "967400795378-gtnlfeospin82oi6bf5b956u5dcic6vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFenGrnTDU1i2G-3UJU5Ec4FTF9vYSuxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967400795378-gtnlfeospin82oi6bf5b956u5dcic6vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
